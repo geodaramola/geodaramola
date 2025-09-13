@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm George, and I'm current and Actuarial Associate for a pension plan and have a vast interest in Data Science and Machine Learning. 
+
+I'm a dedicated actuarial professional with over four years of experience in pension and benefits consulting. I specialize in funding and accounting valuations, pension administration, and actuarial analysis. I am skilled in managing end-to-end actuarial valuation projects and providing critical support to audit teams. I am known for my strong problem-solving abilities, commitment to delivering high-quality client service, and a particular talent for simplifying complex actuarial concepts for diverse audiences.
+
 <!--
 **geodaramola/geodaramola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
