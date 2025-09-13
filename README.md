@@ -1,4 +1,4 @@
-## Hi there 👋
+#Hello there 👋
 
 I'm George, and I'm current and Actuarial Associate for a pension plan and have a vast interest in Data Science and Machine Learning. 
 
